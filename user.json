@@ -1,0 +1,54 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "example@email.com",
+    "phone": "1234567890",
+    "country": "USA",
+    "state": "CA",
+    "city": "San Francisco",
+    "age": 25
+}
+
+{
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "email": "example@email.com",
+    "phone": "123456789",
+    "country": "Indonesia",
+    "state": "Jawa Barat",
+    "city": "Bogor",
+    "age": 25
+}
+
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "example2@email.com",
+    "phone": "12345678",
+    "country": "Indonesia",
+    "state": "Jawa Barat",
+    "city": "Bandung",
+    "age": 25
+}
+
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "example2@email.com",
+    "phone": "1234567",
+    "country": "Indonesia",
+    "state": "Jawa Barat",
+    "city": "Sumedang",
+    "age": 25
+}
+
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "example3@email.com",
+    "phone": "1234567",
+    "country": "Indonesia",
+    "state": "Jawa Barat",
+    "city": "Ciledug",
+    "age": 25
+}
