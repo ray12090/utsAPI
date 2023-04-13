@@ -3,22 +3,19 @@ const movies = [
         "id": "1",
         "title": "Joker",
         "genre": "Drama",
-        "year": "2019",
-        "views": "10000000"
+        "year": "2019"
     },
     {
         "id": "2",
         "title": "Avengers: Endgame",
         "genre": "Action",
-        "year": "2019",
-        "views": "35000000"
+        "year": "2019"
     },
     {
         "id": "3",
         "title": "John Wick: Chapter 3 - Parabellum",
         "genre": "Action",
-        "year": "2023",
-        "views": "500000"
+        "year": "2023"
     }
 ];
 
