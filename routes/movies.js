@@ -13,8 +13,6 @@ router.get('/title/:title', getMoviebyTitle);
 
 router.get('/year/:movieYear', getMoviebyYear);
 
-// router.get('/popular', mostPopularMovie);
-
 router.patch('/:id', updateMovie);
 
 export default router;
